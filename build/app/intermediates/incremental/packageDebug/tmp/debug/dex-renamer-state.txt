@@ -1,0 +1,4 @@
+#Wed Nov 15 18:55:54 IST 2023
+base.0=/Users/unnisins/Desktop/grapes/fd/Flutter-Hive-Notes-App/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
